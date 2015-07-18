@@ -117,16 +117,35 @@
 					</dict>
 					<dict>
 						<key>name</key>
+						<string>normalMapSpriteFrame</string>
+						<key>type</key>
+						<string>SpriteFrame</string>
+						<key>value</key>
+						<array>
+							<string></string>
+							<string></string>
+						</array>
+					</dict>
+					<dict>
+						<key>name</key>
 						<string>color</string>
 						<key>type</key>
 						<string>Color3</string>
 						<key>value</key>
 						<array>
 							<real>1</real>
-							<real>1</real>
-							<real>1</real>
+							<real>0.0</real>
+							<real>0.14440225064754486</real>
 							<real>1</real>
 						</array>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>effects</string>
+						<key>type</key>
+						<string>EffectControl</string>
+						<key>value</key>
+						<array/>
 					</dict>
 				</array>
 			</dict>
@@ -187,8 +206,8 @@
 						<string>ScaleLock</string>
 						<key>value</key>
 						<array>
-							<real>1</real>
-							<real>1</real>
+							<real>0.96427452564239502</real>
+							<real>1.3742896318435669</real>
 							<false/>
 							<integer>0</integer>
 						</array>
@@ -206,18 +225,39 @@
 					</dict>
 					<dict>
 						<key>name</key>
+						<string>normalMapSpriteFrame</string>
+						<key>type</key>
+						<string>SpriteFrame</string>
+						<key>value</key>
+						<array>
+							<string></string>
+							<string></string>
+						</array>
+					</dict>
+					<dict>
+						<key>name</key>
 						<string>color</string>
 						<key>type</key>
 						<string>Color3</string>
 						<key>value</key>
 						<array>
 							<real>1</real>
-							<real>1</real>
-							<real>1</real>
+							<real>0.0</real>
+							<real>0.071933791041374207</real>
 							<real>1</real>
 						</array>
 					</dict>
+					<dict>
+						<key>name</key>
+						<string>effects</string>
+						<key>type</key>
+						<string>EffectControl</string>
+						<key>value</key>
+						<array/>
+					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -295,16 +335,46 @@
 					</dict>
 					<dict>
 						<key>name</key>
+						<string>normalMapSpriteFrame</string>
+						<key>type</key>
+						<string>SpriteFrame</string>
+						<key>value</key>
+						<array>
+							<string></string>
+							<string></string>
+						</array>
+					</dict>
+					<dict>
+						<key>name</key>
 						<string>color</string>
 						<key>type</key>
 						<string>Color3</string>
 						<key>value</key>
 						<array>
 							<real>1</real>
-							<real>1</real>
-							<real>1</real>
+							<real>0.0</real>
+							<real>0.027019098401069641</real>
 							<real>1</real>
 						</array>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>blendFunc</string>
+						<key>type</key>
+						<string>Blendmode</string>
+						<key>value</key>
+						<array>
+							<integer>772</integer>
+							<integer>771</integer>
+						</array>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>effects</string>
+						<key>type</key>
+						<string>EffectControl</string>
+						<key>value</key>
+						<array/>
 					</dict>
 				</array>
 			</dict>
@@ -456,16 +526,35 @@
 							</dict>
 							<dict>
 								<key>name</key>
+								<string>normalMapSpriteFrame</string>
+								<key>type</key>
+								<string>SpriteFrame</string>
+								<key>value</key>
+								<array>
+									<string></string>
+									<string></string>
+								</array>
+							</dict>
+							<dict>
+								<key>name</key>
 								<string>color</string>
 								<key>type</key>
 								<string>Color3</string>
 								<key>value</key>
 								<array>
 									<real>1</real>
-									<real>1</real>
-									<real>1</real>
+									<real>0.034968987107276917</real>
+									<real>0.043344445526599884</real>
 									<real>1</real>
 								</array>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>effects</string>
+								<key>type</key>
+								<string>EffectControl</string>
+								<key>value</key>
+								<array/>
 							</dict>
 						</array>
 					</dict>
@@ -610,16 +699,35 @@
 							</dict>
 							<dict>
 								<key>name</key>
+								<string>normalMapSpriteFrame</string>
+								<key>type</key>
+								<string>SpriteFrame</string>
+								<key>value</key>
+								<array>
+									<string></string>
+									<string></string>
+								</array>
+							</dict>
+							<dict>
+								<key>name</key>
 								<string>color</string>
 								<key>type</key>
 								<string>Color3</string>
 								<key>value</key>
 								<array>
-									<real>1</real>
-									<real>1</real>
+									<real>0.95303982496261597</real>
+									<real>0.9448884129524231</real>
 									<real>1</real>
 									<real>1</real>
 								</array>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>effects</string>
+								<key>type</key>
+								<string>EffectControl</string>
+								<key>value</key>
+								<array/>
 							</dict>
 						</array>
 					</dict>
@@ -854,6 +962,19 @@
 					</dict>
 					<dict>
 						<key>name</key>
+						<string>backgroundColor|Normal</string>
+						<key>type</key>
+						<string>Color3</string>
+						<key>value</key>
+						<array>
+							<real>0.99349135160446167</real>
+							<real>1</real>
+							<real>0.99773305654525757</real>
+							<real>1</real>
+						</array>
+					</dict>
+					<dict>
+						<key>name</key>
 						<string>backgroundSpriteFrame|Highlighted</string>
 						<key>type</key>
 						<string>SpriteFrame</string>
@@ -861,6 +982,19 @@
 						<array>
 							<string></string>
 							<string>ccbResources/ccbButtonHighlighted.png</string>
+						</array>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>backgroundColor|Highlighted</string>
+						<key>type</key>
+						<string>Color3</string>
+						<key>value</key>
+						<array>
+							<real>0.93829542398452759</real>
+							<real>0.97124797105789185</real>
+							<real>1</real>
+							<real>1</real>
 						</array>
 					</dict>
 					<dict>
@@ -885,6 +1019,19 @@
 						<array>
 							<string></string>
 							<string>ccbResources/ccbButtonNormal.png</string>
+						</array>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>backgroundColor|Disabled</string>
+						<key>type</key>
+						<string>Color3</string>
+						<key>value</key>
+						<array>
+							<real>0.97282111644744873</real>
+							<real>0.98760455846786499</real>
+							<real>1</real>
+							<real>1</real>
 						</array>
 					</dict>
 					<dict>
@@ -1186,8 +1333,8 @@
 						<key>value</key>
 						<array>
 							<real>1</real>
-							<real>1</real>
-							<real>1</real>
+							<real>0.0</real>
+							<real>0.14440225064754486</real>
 							<real>1</real>
 						</array>
 					</dict>
